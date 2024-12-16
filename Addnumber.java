@@ -3,7 +3,7 @@ public class Addnumber {
         Main obj = new Main();
         Main.sum(5, 5);
         Main.sum(5.5, 4.3);
-        obj.sum("Rahul","Jauhari");
+        obj.sum("Rahul","Jauhari katra");
     }
     
     
